@@ -1,1 +1,1 @@
-# Javascript_Learnig
+# Javascript_Learning
